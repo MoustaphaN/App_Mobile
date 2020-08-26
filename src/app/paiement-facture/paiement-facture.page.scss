@@ -1,0 +1,32 @@
+
+.header{
+    --background: #33AEB5;
+    color: white;
+    padding-bottom: 20%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.img-wallet{
+    max-width: 75%;
+    max-height: 40%;
+    margin-left: 19%;
+    margin-top: 10%;
+}
+
+.card-wallet{
+    border-radius: 15%;
+    width: 105%;
+    margin: auto;
+    height: 102%;
+}
+.title-wallet{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.title-wallet.ios{
+    font-size: 15px;
+    font-weight: normal;
+}
